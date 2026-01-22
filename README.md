@@ -40,4 +40,11 @@ The main objective of this project is to understand Netflix content patterns, su
 ---
 
 ## 📂 Project Structure
-
+Netflix_Data_Analysis/
+│
+├── Visuals/ # Folder containing all generated visualizations
+│ ├── *.png # PNG images of charts and plots
+│
+├── Netflix_Data_Analysis.ipynb # Main Jupyter Notebook (created using Google Colab)
+├── netflix_titles.csv # Dataset used for analysis
+├── README.md # Project documentation
