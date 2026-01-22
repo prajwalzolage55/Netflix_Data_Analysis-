@@ -35,6 +35,5 @@ The main objective of this project is to understand Netflix content patterns, su
 - **Pandas** – data manipulation and analysis
 - **Matplotlib** – data visualization
 
-*(NumPy and Seaborn are **not used** in this project)*
 
 ---
