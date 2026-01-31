@@ -34,6 +34,6 @@ The main objective of this project is to understand Netflix content patterns, su
 - **Jupyter Notebook**
 - **Pandas** – data manipulation and analysis
 - **Matplotlib** – data visualization
-
+.
 
 ---
